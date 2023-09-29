@@ -1,0 +1,40 @@
+
+div{ 
+    background: url("https://i0.wp.com/profissaobiotec.com.br/wp-content/uploads/2021/08/Modelo-Imagem-destacada-para-textos-1.png?fit=768%2C354&ssl=1");
+    height: 600px;
+    width: 100vw;
+    color: aquamarine;
+    background-size:contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+
+    
+}
+    button{
+        width: 100px; 
+        height: 30px; 
+        background: transparent;
+        transition: 1s ease-in-out;
+    
+    } 
+    button:hover{
+     background:white;
+     color: aquamarine;
+
+    
+      
+       
+    }  
+    
+    
+
+    
+
+    
+
+
+
